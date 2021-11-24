@@ -1,0 +1,14 @@
+!minecraft/
+!minecraft/config
+!minecraft/defaultconfigs
+!minecraft/coremods
+!minecraft/mods
+!minecraft/mods/*
+!minecraft/kubejs
+!minecraft/schematics
+!minecraft/resourcepacks
+!minecraft/packmenu
+!minecraft/patchouli_books
+
+!instance.cfg
+!mmc-pack.json
